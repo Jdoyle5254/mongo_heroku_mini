@@ -1,4 +1,4 @@
-const { Student, Course } = require('../models');
+const { Student, Course } = require('..');
 
 // Aggregate function to get the number of students overall
 const headCount = async () =>
