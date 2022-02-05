@@ -2,6 +2,9 @@
   "name": "mongo_heroku",
   "version": "1.0.1",
   "description": "Mongoose back-end project - Main",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "license": "MIT",
   "scripts": {
